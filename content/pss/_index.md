@@ -1,4 +1,6 @@
 ---
+type: talk
+layout: talk
 title: Recent & Upcoming PSS Talks
 
 # View.
@@ -13,4 +15,4 @@ header:
   image: ""
 ---
 
-These talks happen on teams at 10:15am on Thursdays
+PSS is a student led seminar series on topics in Mathematics. The styles and subjects vary greatly, as you can probably tell from the list of talks below. Due to the ongoing pandemic, these talks happen on Microsoft Teams at 10:15am on Thursdays.

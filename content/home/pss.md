@@ -31,7 +31,7 @@ item:
     cta_icon_pack: fas
     cta_icon: graduation-cap
 
-  - title: "Modelling hair follicle development and formation of periodic patterns of cells."
+  - title: "Modelling hair follicle development and formation of periodic patterns of cells"
     content: 'Shahzeb Raja Noureen, 10/12/2020'
     align: left
     overlay_color: '#FF1493'
@@ -49,12 +49,12 @@ item:
     cta_icon_pack: fas
     cta_icon: graduation-cap
   
-  - title: "Modelling hair follicle development and formation of periodic patterns of cells."
-    content: 'Shahzeb Raja Noureen'
+  - title: "Will a Large Complex System be Stable?"
+    content: 'Yvonne Krumbeck 26/11/2020'
     align: left
     overlay_color: '#FF1493'
     cta_label: Abstract
-    cta_url: 'pss/shahzeb/'
+    cta_url: 'pss/yvonne/'
     cta_icon_pack: fas
     cta_icon: graduation-cap
 
