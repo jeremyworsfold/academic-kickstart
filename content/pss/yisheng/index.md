@@ -13,6 +13,7 @@ all_day: false
 
 authors: [Yi Shen Lim]
 tags: [Probability theory, Topology, Measure theory]
+categories: [Probability theory, Topology, Measure theory]
 
 featured: false
 ---

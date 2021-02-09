@@ -1,7 +1,7 @@
 ---
 title: Modelling hair follicle development and formation of periodic patterns of cells.
 event: Bath Postgraduate Student Seminar
-
+draft: true
 
 
 summary: Investigating the formation of hair follicles

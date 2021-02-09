@@ -13,6 +13,7 @@ all_day: false
 
 authors: [Matt Turner]
 tags: [geometry,algebraic geometry]
+catagories: [geometry,algebraic geometry]
 
 featured: false
 ---

@@ -11,6 +11,7 @@ all_day: false
 
 authors: [Will Graham]
 tags: [measure theory]
+categories: [measure theory]
 
 featured: false
 ---

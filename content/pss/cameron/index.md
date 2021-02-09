@@ -15,6 +15,7 @@ all_day: false
 
 authors: [Cameron Smith]
 tags: [Mathematical Biology]
+categories: [Mathematical Biology]
 
 featured: false
 ---

@@ -11,6 +11,7 @@ all_day: false
 
 authors: [Zoe Dennison]
 tags: [Fluid Dynamics, analysis]
+categories: [Fluid Dynamics, analysis]
 
 featured: false
 ---

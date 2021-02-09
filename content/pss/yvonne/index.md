@@ -13,6 +13,7 @@ all_day: false
 
 authors: [Yvonne Krumbeck]
 tags: [Ecology, complex systems]
+categories: [Ecology, complex systems]
 
 featured: false
 ---

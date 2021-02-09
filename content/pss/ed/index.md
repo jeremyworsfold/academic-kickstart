@@ -13,6 +13,7 @@ all_day: false
 
 authors: [Ed Gallagher]
 tags: [differential geometry, geometry]
+categories: [differential geometry, geometry]
 
 featured: false
 ---

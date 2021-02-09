@@ -22,12 +22,22 @@ height: 400px
 
 
 item:
+
   - title: "Postgraduate Student Seminars"
     content: 'Cycle through to see the recent talk titles or click below to see a list of all from this year.'
     align: left
     overlay_color: '#FF1493'
     cta_label: PSS talks
     cta_url: 'pss/'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+
+  - title: "Highlights from the theory of random growth"
+    content: 'Tom Finn 04/01/2021'
+    align: left
+    overlay_color: '#FF1493'
+    cta_label: Abstract
+    cta_url: 'pss/tomfinn/'
     cta_icon_pack: fas
     cta_icon: graduation-cap
 
@@ -46,15 +56,6 @@ item:
     overlay_color: '#FF1493'
     cta_label: Abstract
     cta_url: 'pss/yisheng/'
-    cta_icon_pack: fas
-    cta_icon: graduation-cap
-  
-  - title: "Will a Large Complex System be Stable?"
-    content: 'Yvonne Krumbeck 26/11/2020'
-    align: left
-    overlay_color: '#FF1493'
-    cta_label: Abstract
-    cta_url: 'pss/yvonne/'
     cta_icon_pack: fas
     cta_icon: graduation-cap
 
