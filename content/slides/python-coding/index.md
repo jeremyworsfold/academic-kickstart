@@ -12,6 +12,10 @@ slides:
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
+plugins: ["plugin/chalkboard/plugin.js","plugin/chart/plugin.js","plugin/menu/plugin.js"]
+plotly: true
+math: true
+
 ---
 
 ## How to use Python for scientific research
@@ -67,3 +71,5 @@ exampleproject
 ---
 
 {{< chart data="annealing" >}}
+
+---

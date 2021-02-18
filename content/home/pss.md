@@ -26,36 +26,36 @@ item:
   - title: "Postgraduate Student Seminars"
     content: 'Cycle through to see the recent talk titles or click below to see a list of all from this year.'
     align: left
-    overlay_color: '#FF1493'
+    overlay_color: '#00bbff'
     cta_label: PSS talks
     cta_url: 'pss/'
     cta_icon_pack: fas
     cta_icon: graduation-cap
 
-  - title: "Highlights from the theory of random growth"
-    content: 'Tom Finn 04/01/2021'
+  - title: "Inverse Problems, Krylov Methods, and Dog Pictures"
+    content: 'Seb Scott 18/02/2021'
     align: left
-    overlay_color: '#FF1493'
+    overlay_color: '#00bbff'
     cta_label: Abstract
-    cta_url: 'pss/tomfinn/'
+    cta_url: 'pss/sebscott/'
     cta_icon_pack: fas
     cta_icon: graduation-cap
 
-  - title: "Modelling hair follicle development and formation of periodic patterns of cells"
-    content: 'Shahzeb Raja Noureen, 10/12/2020'
+  - title: "An overview of moving mesh methods"
+    content: 'Simone Appella, 12/02/2021'
     align: left
-    overlay_color: '#FF1493'
+    overlay_color: '#00bbff'
     cta_label: Abstract
-    cta_url: 'pss/shahzeb/'
+    cta_url: 'pss/simone/'
     cta_icon_pack: fas
     cta_icon: graduation-cap
 
-  - title: "An Invitation to Probability Theory"
-    content: 'Yi Sheng Lim 03/12/2020'
+  - title: "TBC"
+    content: 'Allen Hart 04/03/2021'
     align: left
-    overlay_color: '#FF1493'
+    overlay_color: '#00bbff'
     cta_label: Abstract
-    cta_url: 'pss/yisheng/'
+    cta_url: 'pss/allen/'
     cta_icon_pack: fas
     cta_icon: graduation-cap
 

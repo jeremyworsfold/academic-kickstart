@@ -26,6 +26,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+math: true
+plotly: true
 ---
 
 This informal guide is for people new to using Balena and effectively want to take code they have written to run on their laptop in something like Python or MATLAB and now run it on Balena. This is by no means exhaustive and there is much more information on the [wiki page](https://wiki.bath.ac.uk/display/BalenaHPC/Getting+Started). In fact, much of the information on Balena here is just condensed from that website. The rest of this guide is general tips on how to transfer files and navigate the environment.

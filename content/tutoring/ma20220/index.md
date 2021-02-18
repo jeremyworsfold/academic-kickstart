@@ -60,7 +60,7 @@ $$\dot{x}(t)=Ax(t) + {\color{CarnationPink}b(t)}$$
 
 1. Find $(s\mathcal{I}-A)^{-1}$
 2. {{< emph >}} Find $\mathcal{B}(s) = \mathcal{L}\\\{b(t);s\\\}$ {{< /emph >}}
-3.  Calculate $\mathcal{X}(s) = (s\mathcal{I}-A)^{-1}(x_0 {\color{CarnationPink}+ \mathcal{B}(s)})$
+3.  Calculate $\mathcal{X}(s) = (s\mathcal{I}-A)^{-1}(x_0 {\color{darkcyan}+ \mathcal{B}(s)})$
 4. Use the Laplace transform tables to find $x(t)$ s.t. $\mathcal{L}\\{x_i(t);s\\} = \mathcal{X}_i(s),\quad i=1,...,N$
 
 

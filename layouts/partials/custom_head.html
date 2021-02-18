@@ -1,0 +1,15 @@
+{{ if .Params.plotly }}
+<script>
+  window.PlotlyConfig = {MathJaxConfig: 'local'}
+</script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+{{ end }}
+
+{{ if .Params.math }}
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Register.StartupHook("TeX color Ready", function() {
+    var color = MathJax.Extension["TeX/color"];
+     color.colors["somecolor"] = color.getColor('RGB','0,187,255');
+  });
+</script>
+{{ end }}
