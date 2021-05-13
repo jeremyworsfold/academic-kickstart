@@ -4,7 +4,7 @@ title: "Week 3: 16/02/21"
 event: Tutoring
 draft: false
 
-summary: "Definitions and First order ODEs"
+summary: "Nonlinear 1D Systems"
 
 # Talk start and end times.
 date: "2021-02-16T11:15:00Z"

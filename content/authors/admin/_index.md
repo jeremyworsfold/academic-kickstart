@@ -63,6 +63,6 @@ user_groups:
 - Visitors
 ---
 
-Jeremy is a PhD candidate in Applied Statistical Mathematics at the University of Bath. He is a member of cohort 6 of the SAMBa (Statistical Applied Mathematics Bath) CDT. His current work focuses on the collective behaviour of stochastic interacting agents and its links to kinematic flows and is being supervised by Professor [Tim Rogers](https://people.bath.ac.uk/ma3tcr/) and [Professor Paul Milewski](https://www.bath.ac.uk/profiles/head-of-department-of-mathematical-sciences-paul-milewski/).
+Jeremy is a PhD candidate in Applied Statistical Mathematics at the University of Bath. He is a member of cohort 6 of the SAMBa (Statistical Applied Mathematics Bath) CDT. His current work focuses on the collective behaviour of stochastic interacting agents and its links to kinematic flows and is being supervised by [Professor Tim Rogers](https://people.bath.ac.uk/ma3tcr/) and [Professor Paul Milewski](https://www.bath.ac.uk/profiles/head-of-department-of-mathematical-sciences-paul-milewski/).
 
 Previously he read Theoretical Physics at the University of Manchester, writing his thesis on spatial control in football in collaboration with Manchester City Football Club.

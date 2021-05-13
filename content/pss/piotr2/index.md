@@ -15,7 +15,11 @@ authors: [Piotr Morawiecki]
 tags: [Fluid Dynamics]
 categories: [Fluid Dynamics]
 
-featured: false
+image:
+  caption: "Source: Google Earth"
+  focal_point: "Smart"
+  preview_only: false
+  placement: 3
+
+
 ---
-
-
