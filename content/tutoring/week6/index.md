@@ -1,17 +1,17 @@
 ---
 type: talk
-title: "Week 6: 09/03/21"
+title: "Week 6: 18/03/22"
 event: Tutoring
 draft: false
 
 summary: "First order Maps"
 
 # Talk start and end times.
-date: "2021-03-09T11:15:00Z"
+date: "2022-03-18T11:15:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2022-03-18T00:00:00Z"
 
 authors: [admin]
 tags: [dynamical systems]
@@ -123,7 +123,7 @@ which we can obtain a full solution for (see the main notes for details)
 $$
 x_n = x_0\lambda^n + \frac{\mu}{1-\lambda}(1-\lambda^n).
 $$
-Also we can find the steady steady:
+Also we can find the steady state:
 $$
 \begin{aligned}
 x^\* & = \lambda x^\* + \mu \\\\

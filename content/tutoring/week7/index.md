@@ -1,17 +1,17 @@
 ---
 type: talk
-title: "Week 7: 16/03/21"
+title: "Week 7: 25/03/22"
 event: Tutoring
 draft: false
 
 summary: "Book Keeping Method"
 
 # Talk start and end times.
-date: "2021-03-16T11:15:00Z"
+date: "2022-03-25T11:15:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2022-03-22T00:00:00Z"
 
 authors: [admin]
 tags: [dynamical systems]

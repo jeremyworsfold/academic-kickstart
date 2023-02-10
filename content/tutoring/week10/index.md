@@ -1,17 +1,17 @@
 ---
 type: talk
-title: "Week 10: 20/04/21"
+title: "Week 10: 06/05/22"
 event: Tutoring
 draft: false
 
-summary: "Non-dimensionalisation"
+summary: "Book Keeping Method"
 
 # Talk start and end times.
-date: "2021-04-20T11:15:00Z"
+date: "2022-05-01T11:15:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2022-04-01T00:00:00Z"
 
 authors: [admin]
 tags: [dynamical systems]
@@ -23,12 +23,14 @@ links:
 - icon: image
   icon_pack: fas
   name: Notes png
-  url: "/week10plan.png"
+  url: "/week82017q2.png"
 - icon: file-image
   icon_pack: fas
   name: Notes svg
-  url: "/week10plan.svg"
+  url: "/week82017q2.svg"
 
 # Enable math on this page?
 math: true
 ---
+
+I extended week 7 to cover two weeks so we didn't get too far ahead of the lecture notes. I've linked to my solutions to an example question on the book keeping method from the 2017 Q2 past paper which I covered in one of the tutorials.

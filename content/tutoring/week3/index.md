@@ -1,17 +1,17 @@
 ---
 type: talk
-title: "Week 3: 16/02/21"
+title: "Week 3: 16/02/22"
 event: Tutoring
 draft: false
 
 summary: "Nonlinear 1D Systems"
 
 # Talk start and end times.
-date: "2021-02-16T11:15:00Z"
+date: "2022-02-24T00:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2022-02-23T00:00:00Z"
 
 authors: [admin]
 tags: [odes]
