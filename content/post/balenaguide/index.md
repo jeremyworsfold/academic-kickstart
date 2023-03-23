@@ -10,7 +10,7 @@ categories: [Scientific Computing, how-to guide]
 date: 2020-12-21T09:44:52Z
 lastmod: 2020-12-21T09:44:52Z
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
