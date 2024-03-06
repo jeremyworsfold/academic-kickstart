@@ -1,13 +1,13 @@
 ---
 type: talk
-title: "Week 7: 25/03/22"
+title: "Week 8: 30/03/22"
 event: Tutoring
-draft: true
+draft: false
 
 summary: "Book Keeping Method"
 
 # Talk start and end times.
-date: "2022-03-25T11:15:00Z"
+date: "2023-03-25T11:15:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -83,7 +83,7 @@ So at this point we could just peak at the notes and remember that, for a linear
 $$
 x_n = x_0 \lambda^n + \frac{\mu}{1-\lambda}(1-\lambda^n).
 $$
-Realising that we have a linear map in $y_n$ we can plugging in what we have we'd get 
+Realising that we have a linear map in $y_n$ we can plug into the general solution
 $$
 \begin{aligned}
 y_n &  = y_0\frac{1}{r^n} + \frac{1/r}{1-1/r}\left(1-\frac{1}{r^n}\right) \\\\
@@ -148,7 +148,7 @@ $$
 \Rightarrow t_F-t_0 & = \frac{\tau}{\ln(2)}\ln\left(\frac{22}{8.5}\right) \approx 30.59\\\\
 \end{aligned}
 $$
-The final time $t_F$ was 1967AD so $t_0\approx$1936AD so it could be an early Vermeer.
+The final time $t_F$ was 1967AD so $t_0\approx$1936AD so it must be a forgery.
 
 ### Question 4
 
