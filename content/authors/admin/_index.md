@@ -6,12 +6,12 @@ title: Jeremy Worsfold
 superuser: true
 
 # Role/position
-role: PhD in Applied Mathematics and Collective Behaviour
+role: Postdoctoral Fellow 
 
 # Organizations/Affiliations
 organizations:
-- name: University of Bath
-  url: ""
+- name: University of New South Wales, Sydney
+  url: "https://www.unsw.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Collective Behaviour, speficially swarming models and interacting particles Systems. I also have interests in Reinforcement Learning and Scientific Computing.
@@ -19,10 +19,14 @@ bio: My research interests include Collective Behaviour, speficially swarming mo
 interests:
 - Collective Behaviour
 - Interacting Particle Systems
-- Reinforcement Learning
+- Statistical Physics
+- Mathematical Biology
 
 education:
   courses:
+  - course: PhD  in Statistical Applied Mathematics
+    institution: University of Bath
+    year: 2020-2023
   - course: MRes  in Statistical Applied Mathematics
     institution: University of Bath
     year: 2020
@@ -37,10 +41,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jw3286@bath.ac.uk"  # For a direct email link, use "mailto:test@example.org".
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: "mailto:j.worsfold@unsw.edu.au"  # For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ErEVXaAAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3252-9454
 - icon: github
   icon_pack: fab
   link: https://github.com/jeremyworsfold
@@ -63,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Jeremy is a PhD candidate in Applied Statistical Mathematics at the University of Bath. He is a member of cohort 6 of the SAMBa (Statistical Applied Mathematics Bath) CDT. His current work focuses on the collective behaviour of stochastic interacting agents and its links to kinematic flows and is being supervised by [Professor Tim Rogers](https://people.bath.ac.uk/ma3tcr/) and [Professor Paul Milewski](https://www.bath.ac.uk/profiles/head-of-department-of-mathematical-sciences-paul-milewski/).
+Jeremy is a Postdoctoral fellow as the UNSW researching collective behaviour and Statistical Physics. He recently completed his PhD thesis titled "Stochastic Active Flows" at the University of Bath under the supervision of [Professor Tim Rogers](https://people.bath.ac.uk/ma3tcr/).
 
 Previously he read Theoretical Physics at the University of Manchester, writing his thesis on spatial control in football in collaboration with Manchester City Football Club.

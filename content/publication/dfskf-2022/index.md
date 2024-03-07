@@ -9,7 +9,7 @@ authors:
 tags:
 - Adaptation and Self-Organizing Systems
 categories: []
-date: '2022-01-01'
+date: '2023-02-14'
 lastmod: 2023-02-14T10:12:07Z
 featured: false
 draft: false
@@ -28,23 +28,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-14T10:12:06.579144Z'
-publication_types:
+publishDate: '2023-05-23T10:12:06.579144Z'
+publication_types: 
 - '0'
-abstract: 'At the macroscopic scale, many important models of collective motion fall
-  into the class of kinematic flows for which both velocity and diffusion terms depend
-  only on particle density. When total particle numbers are fixed and finite, simulations
-  of corresponding microscopic dynamics exhibit stochastic effects which can induce
-  a variety of interesting behaviours not present in the large system limit. In this
-  article we undertake a systematic examination of finite-size fluctuations in a general
-  class of particle models whose statistics correspond to those of stochastic kinematic
-  flows. Doing so, we are able to characterise phenomena including: quasi-jams in
-  models of traffic flow; stochastic pattern formation amongst spatially-coupled oscillators;
-  anomalous bulk sub-diffusion in porous media; and travelling wave fluctuations in
-  a model of bacterial swarming.'
-publication: '*arXiv*'
-doi: 10.48550/ARXIV.2204.02926
+abstract: "At the macroscopic scale, many important models of collective motion fall into the class of kinematic flows for which both velocity and diffusion terms depend only on particle density. When total particle numbers are fixed and finite, simulations of corresponding microscopic dynamics exhibit stochastic effects which can induce a variety of interesting behaviours not present in the large system limit. In this article we undertake a systematic examination of finite-size fluctuations in a general class of particle models whose statistics correspond to those of stochastic kinematic flows. Doing so, we are able to characterise phenomena including: quasi-jams in models of traffic flow; stochastic pattern formation amongst spatially-coupled oscillators; anomalous bulk sub-diffusion in porous media; and travelling wave fluctuations in a model of bacterial swarming."
+publication: 'SIAM Journal on Applied Mathematics'
+doi: '10.1137/22M149416'
 links:
 - name: URL
-  url: https://arxiv.org/abs/2204.02926
+  url: https://doi.org/10.1137/22M149416
 ---
