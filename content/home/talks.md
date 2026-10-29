@@ -1,70 +1,26 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
-
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Talks, listed by hand to match the CV.
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 60  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Talks"
 subtitle = ""
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
-    exclude_past = false
-    exclude_future = false
-    
 [design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
+  columns = "2"
 +++
+
+**Invited**
+
+- "Autocorrelation-based inference of transcription dynamics via infinite-server queueing models". Mathematical Biology minisymposium, Imperial College London (2026)
+- "Density fluctuations in stochastic kinematic flows". University of St Andrews (2023) · [abstract](post/standrews/)
+
+**Contributed**
+
+- "Autocorrelation-based inference of transcription dynamics via infinite-server queueing models". SMB Annual Meeting, Graz (2026) and Sydney Mathematical Biology Symposium (2025)
+- "How do T cells migrate through collagen? Inferring subcellular forces from fibre-resolved extracellular matrix deformations". SMB Annual Meeting, Graz (2026)
+- "Stochastically bistable growth and decay in the Togashi–Kaneko model". ANZIAM (2025)
+- "Collective synchronization through noise cancellation". SIAM Conference on Applications of Dynamical Systems, Portland (2023) · [abstract](post/siamds23/) and BAMC, Bristol (2023) · [abstract](post/bamc2023/)
+- "Density fluctuations in stochastic kinematic flows". BAMC, Loughborough (2022), **Best Student Talk**, and poster at the SMB Annual Meeting, Heidelberg (2022) · [poster](post/ecmbtposter/)

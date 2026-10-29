@@ -6,31 +6,31 @@ title: Jeremy Worsfold
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow 
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of New South Wales, Sydney
-  url: "https://www.unsw.edu.au"
+- name: School of Physics, UNSW Sydney
+  url: "https://www.unsw.edu.au/science/our-schools/physics"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Collective Behaviour, speficially swarming models and interacting particles Systems. I also have interests in Reinforcement Learning and Scientific Computing.
+bio: Stochastic processes and statistical physics in cell biology, especially noise-induced switching and the reduction of multiscale stochastic models.
 
 interests:
-- Collective Behaviour
-- Interacting Particle Systems
-- Statistical Physics
-- Mathematical Biology
+- Noise-induced switching and metastability
+- Multiscale reduction of stochastic models
+- Gene regulation and epigenetics
+- Collective behaviour and interacting particle systems
 
 education:
   courses:
-  - course: PhD  in Statistical Applied Mathematics
+  - course: PhD in Mathematics
     institution: University of Bath
-    year: 2020-2023
-  - course: MRes  in Statistical Applied Mathematics
+    year: 2023
+  - course: MRes in Statistical Applied Mathematics
     institution: University of Bath
     year: 2020
-  - course: MPhys in Physics with Theoretical Physics
+  - course: MPhys in Theoretical Physics
     institution: University of Manchester
     year: 2019
 
@@ -53,9 +53,9 @@ social:
   link: https://github.com/jeremyworsfold
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/Full_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +70,11 @@ user_groups:
 - Visitors
 ---
 
-Jeremy is a Postdoctoral fellow as the UNSW researching collective behaviour and Statistical Physics. He recently completed his PhD thesis titled "Stochastic Active Flows" at the University of Bath under the supervision of [Professor Tim Rogers](https://people.bath.ac.uk/ma3tcr/).
+I am a Postdoctoral Research Fellow in the School of Physics at UNSW Sydney, working with [Richard Morris](https://www.rgmorris.com) on stochastic processes and statistical physics in cell biology.
 
-Previously he read Theoretical Physics at the University of Manchester, writing his thesis on spatial control in football in collaboration with Manchester City Football Club.
+My current research is on noise-induced manifolds, where strong, state-dependent noise drives a system onto a few sets on which the noise vanishes and slower dynamics carry it along and between them.
+I am developing a reduction of such systems to switching processes, with applications to gene regulation and epigenetics, and I collaborate with experimental groups on transcription dynamics and T-cell migration.
+
+I did my PhD, "Stochastic Active Flows", at the University of Bath with [Tim Rogers](https://people.bath.ac.uk/ma3tcr/) and Paul Milewski, and before that read Theoretical Physics at the University of Manchester.
+
+In my spare time I enjoy playing football (soccer), running, walking and exploring all the beaches Sydney has to offer.

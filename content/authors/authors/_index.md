@@ -14,7 +14,7 @@ organizations:
   url: "https://www.unsw.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Collective Behaviour, speficially swarming models and interacting particles Systems. I also have interests in Reinforcement Learning and Scientific Computing.
+bio: My research interests generally fall under Statistical Physics applied to Biological and Ecological processes. I also have interests in Reinforcement Learning and Scientific Computing.
 
 interests:
 - Collective Behaviour
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Jeremy is a Postdoctoral fellow as the UNSW researching collective behaviour and Statistical Physics. He recently completed his PhD thesis titled "Stochastic Active Flows" at the University of Bath under the supervision of [Professor Tim Rogers](https://people.bath.ac.uk/ma3tcr/).
+Jeremy is a Postdoctoral fellow as the UNSW researching Statistical Physics. He is particularly interested in collective behaviour and hothe behaviour of spatially coupled interacting stochastic particles. He recently completed his PhD thesis titled "Stochastic Active Flows" at the University of Bath under the supervision of [Professor Tim Rogers](https://people.bath.ac.uk/ma3tcr/).
 
 Previously he read Theoretical Physics at the University of Manchester, writing his thesis on spatial control in football in collaboration with Manchester City Football Club.

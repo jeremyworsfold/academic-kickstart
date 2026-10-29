@@ -5,7 +5,8 @@ title: "Stay in your lane: Density fluctuations in multi-lane traffic"
 subtitle: ''
 summary: ''
 authors:
-- Jeremy Worsfold
+- admin
+- Tim Rogers
 tags:
 - Stochastic effects
 categories: []
@@ -30,11 +31,9 @@ image:
 projects: []
 publishDate: '2024-02-05T10:12:06.579144Z'
 publication_types:
-- '0'
+- '2'
 abstract: 'When a new vehicle joins a lane, those behind may have to temporarily slow to accommodate them. Changing lane can be forced due to lane drops or junctions, but may also take place spontaneously at discretion of drivers, and recent studies have found that traffic jams and traffic oscillations can form even without such bottlenecks. Understanding how lane changing behaviour affects traffic flow is important for learning how to design roads and control traffic more effectively. Here, we present a stochastic model of spontaneous lane changing which exhibits a reduction in the overall flow of traffic. By examining the average flow rate both analytically and through simulations we find a definitive slow down of vehicles due to random switching between lanes. This results in the fundamental diagram depending on the rate of lane switching. By extending the model to three-lane traffic we find a larger impact on the flow of the middle lane compared to the side lanes.'
 publication: 'Europhysics Letters'
 doi: '10.1209/0295-5075/ad1c05'
-links:
-- name: URL
-  url: https://doi.org/10.1209/0295-5075/ad1c05
+url_preprint: https://arxiv.org/abs/2308.07065
 ---
